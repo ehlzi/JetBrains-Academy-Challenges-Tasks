@@ -1,3 +1,5 @@
+package FizzBuzz;
+
 import java.util.Scanner;
 
 public class FizzBizz {
