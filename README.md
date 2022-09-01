@@ -8,7 +8,7 @@ During this journey, you will also play some word and number games that you are 
 
 What you'll learn:
 
-**Teach your assistant to introduce itself in the console.
+### Teach your assistant to introduce itself in the console.
 
 - Computer programming
 
@@ -22,7 +22,7 @@ What you'll learn:
 
 - Printing data
 
-**Introduce yourself to the bot.
+### Introduce yourself to the bot.
 - Types and variables
 
 - Comments
@@ -33,7 +33,7 @@ What you'll learn:
 
 - Naming variables
 
--Use your knowledge of strings and numbers to make the assistant guess your age.
+### Use your knowledge of strings and numbers to make the assistant guess your age.
 
 - Arithmetic operations
 
@@ -45,7 +45,7 @@ What you'll learn:
 
 - String
 
-**Your assistant is old enough to learn how to count. And you are experienced enough to apply a for loop at this stage!
+### Your assistant is old enough to learn how to count. And you are experienced enough to apply a for loop at this stage!
 
 - Boolean and logical operations
 
@@ -57,5 +57,5 @@ What you'll learn:
 
 - The for-loop
 
-**At this point, the assistant will be able to check your knowledge and ask multiple-choice questions.
-Add some functions to your code and make the stage even better.
+### At this point, the assistant will be able to check your knowledge and ask multiple-choice questions.
+- Add some functions to your code and make the stage even better.
